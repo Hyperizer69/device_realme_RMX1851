@@ -5,4 +5,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/spark_RMX1851.mk
+    $(LOCAL_DIR)/fusion_RMX1851.mk
