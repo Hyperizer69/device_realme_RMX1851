@@ -15,7 +15,7 @@ TARGET_GAPPS_ARCH := arm64
 
 # Device identifier. This must come after all inclusions.
 PRODUCT_DEVICE := RMX1851
-PRODUCT_NAME := fusion_RMX1851
+PRODUCT_NAME := fuse_RMX1851
 PRODUCT_BRAND := Realme
 PRODUCT_MODEL := Realme 3 Pro
 PRODUCT_MANUFACTURER := Realme
